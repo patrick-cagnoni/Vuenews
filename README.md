@@ -1,24 +1,14 @@
-# vuenews
+# VUENEWS
 
-## Project setup
-```
-npm install
-```
+## Descrição
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeto feito para por em prática os conhecimentos em VueJS e chamadas de API. Este projeto usa o API do google news para gerar dinamicamente notícias sobre diversas categorias.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Live Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://vuejsnews.netlify.com
+
+## Tecnologias empregadas
+
+HTML, CSS, Javascript, VueJS
